@@ -1,0 +1,3 @@
+Test - Staging modified files
+One little change before commit
+Viewing your staged and unstaged changes
